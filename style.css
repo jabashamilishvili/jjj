@@ -1,0 +1,128 @@
+div{
+   
+    margin:  60px;
+     font-size: 80px;
+     height: 100px;
+     
+
+ }
+#header{
+   background-color: black;
+   width: 2750px;
+
+
+
+
+
+}
+ #main{
+ background-color: rgb(255, 255, 255);
+ height: 1500px;
+  
+    margin-left: 200px;
+
+ }
+
+.parts{
+  display: flex;
+   gap: 100px;
+    
+
+}
+
+#leftsidebar{
+  background-color: aliceblue;
+  float: left;
+   width: 150px;
+   height: 1000px;
+    background-position: center;
+  margin-left: 40px;
+
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+
+.germany{
+   margin-left: 150px;
+}
+
+.csl{
+   padding: 15px;
+   
+}
+
+h1{
+   font-size: 25px;
+}
+
+.key{
+   color: white;
+   background-color: black;
+   width: 50px;
+   margin-top: 310px;
+   margin-left: 740px;
+}
+
+.key-1{
+   margin-top: -45px;
+   margin-left: 740px;
+
+}
+
+.price-1{
+   color: white;
+   background-color: black;
+   width: 40px;
+   margin-left: 240px;
+   margin-top: -50px;
+}
+
+.price-2{
+   color: white;
+   background-color: black;
+   width: 40px;
+   margin-left: 1400px;
+   margin-top: -20px;
+}
+
+.brake{
+   margin-right: 1500px;
+}
+
+.BrakeDisc{
+   margin-top: -45px;
+   margin-left: 1350px;
+}
+
+.price-3{
+   color: white;
+   background-color: black;
+   width: 50px;
+   margin-left: 1980px;
+   margin-top: -50px;
+}
+
+.price-4{
+   color: white;
+   background-color: black;
+   width: 40px;
+   margin-left: 2500px;
+   margin-top: -50px;
+}
+
+.Cylinder {
+   margin-left: 200px;
+   margin-top: -550px;
+}
+
+.Wheel{
+   margin-left: 1970px;
+   margin-top: -20px;
+}
+
+.BBrake{
+   margin-left: 2460px;
+   margin-top: -45px;
+}
